@@ -40,4 +40,8 @@ The summary of the balanced accuracy score, precision and recall for different m
 
 
 ## Summary
-It can be seen that Easy Ensemble AdaBoost method is superior compared to other methods. It results in higher balanced accuracy score, precision, and recall. However, precision for high-risk group is still very low (ie. 0.09). Since precision is a measure of how reliable a positive classification is, I would recommend neither of these methods as none are reliable for high-risk groups. Therefore, more data is needed for a reliable recommendation. 
+It can be seen that Easy Ensemble AdaBoost method is superior compared to other methods. It results in higher balanced accuracy score, precision, and recall as shown below: 
+
+![img1](https://github.com/amirimah/Credit_Risk_Analysis/blob/main/Screenshots/Easy%20Ensemble%20AdaBoost.png?raw=true)  
+  
+However, precision for high-risk group is still very low (ie. 0.09). Since precision is a measure of how reliable a positive classification is, I would recommend neither of these methods as none are reliable for high-risk groups. Therefore, more data is needed for a reliable recommendation. 
